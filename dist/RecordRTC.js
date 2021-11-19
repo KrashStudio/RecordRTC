@@ -104,7 +104,7 @@ return /******/ (function(modules) { // webpackBootstrap
 // Last time updated: 2020-07-30 11:26:25 AM UTC
 
 // ________________
-// RecordRTC v5.6.1
+// RecordRTC v5.6.2-fork1
 
 // Open-Sourced: https://github.com/muaz-khan/RecordRTC
 
